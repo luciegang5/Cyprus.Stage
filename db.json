@@ -1,0 +1,9 @@
+{
+  "users": [
+    { "id": 1, "name": "Ali", "age": 20 },
+    { "id": 2, "name": "Sara", "age": 25 }
+  ],
+  "posts": [
+    { "id": 1, "title": "Bonjour", "userId": 1 }
+  ]
+}
